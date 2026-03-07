@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://im-gorgunov.github.io/ru/publications/</link>
+      <atom:link href="https://im-gorgunov.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://im-gorgunov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://im-gorgunov.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Что такое GitHub</title>
+      <link>https://im-gorgunov.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://im-gorgunov.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-github&#34;&gt;💻 Что такое GitHub&lt;/h2&gt;
+&lt;p&gt;На этой неделе я начал подробнее изучать &lt;strong&gt;GitHub&lt;/strong&gt; — одну из самых популярных платформ для совместной разработки программного обеспечения. GitHub используется разработчиками по всему миру для хранения кода, работы над проектами и совместной разработки.&lt;/p&gt;
+&lt;p&gt;По сути, GitHub — это сервис, который работает на основе системы контроля версий &lt;strong&gt;Git&lt;/strong&gt;. Он позволяет сохранять изменения в коде, отслеживать историю проекта и работать над программой вместе с другими разработчиками.&lt;/p&gt;
+&lt;h2 id=&#34;-зачем-нужен-github&#34;&gt;⚙️ Зачем нужен GitHub&lt;/h2&gt;
+&lt;p&gt;GitHub выполняет несколько важных функций в процессе разработки программного обеспечения:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 &lt;strong&gt;Хранение проектов&lt;/strong&gt; — весь код можно хранить в репозиториях и иметь к нему доступ из любой точки мира.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Контроль версий&lt;/strong&gt; — система Git позволяет отслеживать изменения в коде и возвращаться к предыдущим версиям проекта.&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;Совместная работа&lt;/strong&gt; — несколько разработчиков могут одновременно работать над одним проектом.&lt;/li&gt;
+&lt;li&gt;🐞 &lt;strong&gt;Отслеживание задач и ошибок&lt;/strong&gt; — можно создавать задачи, обсуждать проблемы и улучшать проект.&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Портфолио разработчика&lt;/strong&gt; — GitHub часто используется как площадка для демонстрации своих проектов и навыков.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-github-важен-для-студентов&#34;&gt;🚀 Почему GitHub важен для студентов&lt;/h2&gt;
+&lt;p&gt;Для студентов, изучающих &lt;strong&gt;компьютерные науки и программирование&lt;/strong&gt;, GitHub является важным инструментом обучения и развития.&lt;/p&gt;
+&lt;p&gt;Он помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;практиковаться в работе с системой контроля версий;&lt;/li&gt;
+&lt;li&gt;хранить учебные проекты;&lt;/li&gt;
+&lt;li&gt;демонстрировать свои навыки работодателям;&lt;/li&gt;
+&lt;li&gt;участвовать в open-source проектах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-мои-планы-по-использованию-github&#34;&gt;📈 Мои планы по использованию GitHub&lt;/h2&gt;
+&lt;p&gt;Я планирую использовать GitHub для размещения своих учебных проектов, практики программирования и отслеживания прогресса в изучении технологий. Это поможет мне постепенно сформировать собственное &lt;strong&gt;портфолио разработчика&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Изучение GitHub — важный шаг для любого начинающего программиста, потому что этот инструмент широко используется в современной IT-индустрии.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | </title>
+    <link>https://im-gorgunov.github.io/ru/tags/student-life/</link>
+      <atom:link href="https://im-gorgunov.github.io/ru/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://im-gorgunov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Student Life</title>
+      <link>https://im-gorgunov.github.io/ru/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://im-gorgunov.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://im-gorgunov.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта учебная неделя прошла продуктивно и принесла много нового опыта. Обучение на направлении &lt;strong&gt;«Компьютерные науки»&lt;/strong&gt; постоянно открывает для меня новые темы и задачи, которые помогают лучше понимать мир современных технологий.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я продолжил изучать основы алгоритмов и структуры программ. Мы разбирали практические задачи, что помогло лучше понять логику написания кода.&lt;/li&gt;
+&lt;li&gt;🧠 На лекциях по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; мы рассматривали способы оптимизации программ и эффективной обработки информации.&lt;/li&gt;
+&lt;li&gt;📚 Уделил время самостоятельному изучению материалов по &lt;strong&gt;Python&lt;/strong&gt;, чтобы улучшить навыки разработки и научиться писать более понятный и эффективный код.&lt;/li&gt;
+&lt;li&gt;🌐 Узнал больше о том, как современные технологии используются в разработке программных систем и цифровых сервисов.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над учебными заданиями и небольшими проектами, где важно не только программирование, но и умение анализировать задачу и находить оптимальное решение.&lt;/li&gt;
+&lt;li&gt;🚶 Также старался находить время для отдыха и прогулок, чтобы сохранять концентрацию и продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя обучения помогает мне развивать навыки в области &lt;strong&gt;компьютерных наук&lt;/strong&gt;, лучше понимать программирование и постепенно двигаться к своей цели — стать профессионалом в сфере IT. 🚀&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
