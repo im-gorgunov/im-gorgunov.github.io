@@ -5,12 +5,32 @@
     <link>https://im-gorgunov.github.io/ru/tags/computer-science/</link>
       <atom:link href="https://im-gorgunov.github.io/ru/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Science</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://im-gorgunov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Computer Science</title>
       <link>https://im-gorgunov.github.io/ru/tags/computer-science/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://im-gorgunov.github.io/ru/blog/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://im-gorgunov.github.io/ru/blog/02/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя обучения получилась насыщенной и интересной. Я продолжил углубляться в направление &lt;strong&gt;«Компьютерные науки»&lt;/strong&gt;, постепенно развивая как теоретические знания, так и практические навыки.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; мы решали более сложные задачи, связанные с логикой и структурой кода. Это помогло лучше понять, как строятся эффективные программы.&lt;/li&gt;
+&lt;li&gt;🧠 В рамках курса по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; я познакомился с новыми подходами к оптимизации и анализу алгоритмов.&lt;/li&gt;
+&lt;li&gt;📚 Самостоятельно продолжил изучение &lt;strong&gt;Python&lt;/strong&gt;, уделяя внимание написанию чистого и понятного кода.&lt;/li&gt;
+&lt;li&gt;🌐 Узнал больше о современных подходах к разработке программных систем и их применении в реальных проектах.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над практическими заданиями, где важно не только написать код, но и грамотно продумать решение задачи.&lt;/li&gt;
+&lt;li&gt;🚶 Не забывал про отдых — прогулки и смена деятельности помогали сохранять продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая неделя делает меня на шаг ближе к цели — стать специалистом в области &lt;strong&gt;IT&lt;/strong&gt; и уверенно применять знания на практике. 🚀&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🙂&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

@@ -54,7 +54,7 @@
       href="https://im-gorgunov.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://im-gorgunov.github.io/ru/tags/academic/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://im-gorgunov.github.io/ru/tags/academic/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://im-gorgunov.github.io/tags/academic/"
@@ -64,7 +64,7 @@
       href="https://im-gorgunov.github.io/ru/tags/academic/"
     /></url>
   <url>
-    <loc>https://im-gorgunov.github.io/ru/blog/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://im-gorgunov.github.io/ru/blog/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://im-gorgunov.github.io/blog/"
@@ -74,9 +74,13 @@
       href="https://im-gorgunov.github.io/ru/blog/"
     /></url>
   <url>
-    <loc>https://im-gorgunov.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://im-gorgunov.github.io/ru/tags/computer-science/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://im-gorgunov.github.io/ru/publications/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://im-gorgunov.github.io/ru/tags/latex/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://im-gorgunov.github.io/ru/tags/markup-languages/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://im-gorgunov.github.io/ru/publications/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://im-gorgunov.github.io/publications/"
@@ -86,9 +90,9 @@
       href="https://im-gorgunov.github.io/ru/publications/"
     /></url>
   <url>
-    <loc>https://im-gorgunov.github.io/ru/tags/student-life/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://im-gorgunov.github.io/ru/tags/student-life/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://im-gorgunov.github.io/ru/tags/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://im-gorgunov.github.io/ru/tags/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://im-gorgunov.github.io/tags/"
@@ -97,6 +101,10 @@
       hreflang="ru"
       href="https://im-gorgunov.github.io/ru/tags/"
     /></url>
+  <url>
+    <loc>https://im-gorgunov.github.io/ru/blog/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://im-gorgunov.github.io/ru/publications/02/</loc><lastmod>2026-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://im-gorgunov.github.io/ru/blog/01/</loc><lastmod>2026-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
