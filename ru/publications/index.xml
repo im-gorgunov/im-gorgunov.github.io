@@ -5,12 +5,32 @@
     <link>https://im-gorgunov.github.io/ru/publications/</link>
       <atom:link href="https://im-gorgunov.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://im-gorgunov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://im-gorgunov.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://im-gorgunov.github.io/ru/publications/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://im-gorgunov.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-создание-презентаций&#34;&gt;🎤 Создание презентаций&lt;/h2&gt;
+&lt;p&gt;На этой неделе я уделил внимание важному навыку — созданию презентаций. Умение грамотно представить информацию играет большую роль как в обучении, так и в профессиональной деятельности.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧩 Разобрался с базовой структурой презентации: введение, основная часть и выводы. Это помогает логично выстроить материал и сделать его понятным для аудитории.&lt;/li&gt;
+&lt;li&gt;🎨 Изучил принципы визуального оформления: минимализм, читаемость и единый стиль делают презентацию более привлекательной.&lt;/li&gt;
+&lt;li&gt;📝 Понял, что текст на слайдах должен быть кратким и дополнять устное выступление, а не заменять его.&lt;/li&gt;
+&lt;li&gt;📊 Начал использовать графики и схемы для наглядного представления информации. Это упрощает восприятие сложных тем.&lt;/li&gt;
+&lt;li&gt;🎯 Осознал важность адаптации презентации под аудиторию — содержание и стиль подачи должны соответствовать слушателям.&lt;/li&gt;
+&lt;li&gt;⏱ Практиковался в устном сопровождении презентации, чтобы говорить уверенно и не зависеть от текста на слайдах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Создание презентаций — это не только про оформление слайдов, но и про умение донести идею. Этот навык точно пригодится в будущем, особенно в сфере &lt;strong&gt;IT&lt;/strong&gt;, где важно уметь объяснять сложные вещи простым языком. 🚀&lt;/p&gt;
+&lt;p&gt;А вы любите делать презентации или больше предпочитаете выступать без них? 🙂&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Языки разметки. LaTeX</title>

@@ -5,12 +5,32 @@
     <link>https://im-gorgunov.github.io/ru/tags/computer-science/</link>
       <atom:link href="https://im-gorgunov.github.io/ru/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Science</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://im-gorgunov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Computer Science</title>
       <link>https://im-gorgunov.github.io/ru/tags/computer-science/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://im-gorgunov.github.io/ru/blog/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://im-gorgunov.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта учебная неделя выдалась продуктивной и разнообразной. Я продолжил развивать навыки в области &lt;strong&gt;«Компьютерные науки»&lt;/strong&gt;, уделяя внимание как практике, так и пониманию теоретических основ.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; сосредоточился на решении задач повышенной сложности, что позволило лучше разобраться в логике построения программ.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &lt;strong&gt;алгоритмам и структурам данных&lt;/strong&gt; углубился в анализ эффективности решений и освоил новые методы оптимизации.&lt;/li&gt;
+&lt;li&gt;📚 Продолжил самостоятельное изучение &lt;strong&gt;Python&lt;/strong&gt;, стараясь писать более структурированный и понятный код.&lt;/li&gt;
+&lt;li&gt;🌐 Изучал принципы разработки современных программных систем и их использование в реальных проектах.&lt;/li&gt;
+&lt;li&gt;🤝 Выполнял практические задания, где важно не только реализовать решение, но и продумать архитектуру программы.&lt;/li&gt;
+&lt;li&gt;🚶 Поддерживал баланс между учёбой и отдыхом, что помогло сохранять концентрацию и мотивацию.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно формируется более системное понимание профессии, и с каждой неделей я становлюсь увереннее в своих навыках в сфере &lt;strong&gt;IT&lt;/strong&gt;. 🚀&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🙂&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>
